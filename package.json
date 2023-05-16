@@ -1,0 +1,14 @@
+{
+  "name": "test-con-jest",
+  "version": "1.0.0",
+  "description": "test básico con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yonier Vasquez Marin",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
